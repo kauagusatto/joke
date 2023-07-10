@@ -1,4 +1,6 @@
-
+*{
+    font-size: 48px;
+}
 body {
     background-color: black;
     max-width: 500px;
@@ -24,7 +26,7 @@ body {
   
   .button {
     background-color: white;
-    color: blue;
+    color: black;
     border-radius: 5px;
     margin: 0 10px;
   }
